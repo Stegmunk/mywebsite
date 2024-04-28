@@ -3,6 +3,16 @@
   background-color: #000000;
   text-transform: lowercase;
 }
+
+/* side title */
+#side_title{
+  background-color: #888888;
+  margin: auto;
+  border: none;
+  padding: 1.5em;
+  size: 1,5em;
+}
+
 /* text editing*/
 h1{
   text-align: center;
