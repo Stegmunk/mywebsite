@@ -1,15 +1,13 @@
 *{
   color: #ffffff;
   background-color: #000000;
+  text-transform: lowercase;
 }
 
 
 h1{
   text-align: center;
   text-transform: capitalize;
-}
-p{
-  text-transform: lowercase;
 }
 button{
   height: 5rem;
