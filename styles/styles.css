@@ -3,32 +3,43 @@
   background-color: #000000;
   text-transform: lowercase;
 }
-
+/* text editing*/
 h1{
   text-align: center;
   text-transform: capitalize;
 }
+
+/* button */
 button{
   height: 5rem;
   width: 11rem;
 }
 
+/* text on buttons */
 button p{
   font-size: 2rem;
   margin: 0rem;
   text-transform: capitalize;
 }
 
+/* Unorderd list's & ordered list's */
 ul{
   background-color: #ff0000;
 }
-
 
 li p{
   background-color: #ff0000;
   text-transform: capitalize;
 }
 
+/* div's */
 div{
   background-color: #888888;
+}
+
+/* classes */
+.container{
+  margin: auto;
+  border: auto;
+  padding: auto;
 }
