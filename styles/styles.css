@@ -4,7 +4,6 @@
   text-transform: lowercase;
 }
 
-
 h1{
   text-align: center;
   text-transform: capitalize;
@@ -19,10 +18,17 @@ button p{
   margin: 0rem;
   text-transform: capitalize;
 }
+
 ul{
   background-color: #ff0000;
 }
-.container p{
+
+
+li p{
   background-color: #ff0000;
   text-transform: capitalize;
+}
+
+div{
+  background-color: #888888;
 }
