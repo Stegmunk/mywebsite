@@ -2,6 +2,7 @@
   color: #ffffff;
   background-color: #000000;
   text-transform: lowercase;
+  font-size: 100%;
 }
 
 /* side title */
@@ -9,14 +10,18 @@
   background-color: #888888;
   margin: auto;
   border: none;
-  padding: 1.5em;
+  padding: 1.5%;
   size: 1,5em;
+  font-size: 340%;
 }
 
 /* text editing*/
 h1{
   text-align: center;
   text-transform: capitalize;
+  font-size: 500%;
+  padding: 0%;
+  margin: 0%;
 }
 
 /* button */
@@ -40,6 +45,7 @@ ul{
 li p{
   background-color: #ff0000;
   text-transform: capitalize;
+  font-size: 200%;
 }
 
 /* div's */
